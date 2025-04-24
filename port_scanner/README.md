@@ -63,6 +63,6 @@ The script handles the following exceptions:
 ---
 ## 👩‍💻 Author
 
-Nidhi Kumari
-📅 Date: 24/04/25
+- Nidhi Kumari
+- 📅 Date: 24/04/25
 
