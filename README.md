@@ -16,7 +16,7 @@ Here are some of the things you’ll find here:
 
 | Project Name        | Description                                         | Tech Stack              |
 |---------------------|-----------------------------------------------------|--------------------------|
-| 🔍 `port-scanner`   | Simple Python script to scan open ports on a host. | Python, Socket           |
+| 🔍 [Port Scanner](port_scanner/script/port_scanner_v2.py)  | Simple Python script to scan open ports on a host. | Python, Socket           |
 | ☁️ `azure-monitoring`| Sample configs and scripts for Azure Monitoring    | Azure Monitor, Log Analytics |
 | 🔄 `backup-script`  | Automated backup script with rotation and logging  | Bash, Cron, rsync        |
 | 🔐 `cert-checker`   | Tool to check SSL certificate expiry dates         | Python, OpenSSL          |
