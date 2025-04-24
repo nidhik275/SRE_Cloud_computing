@@ -21,6 +21,8 @@ Here are some of the things you’ll find here:
 | 🔄 `backup-script`  | Automated backup script with rotation and logging  | Bash, Cron, rsync        |
 | 🔐 `cert-checker`   | Tool to check SSL certificate expiry dates         | Python, OpenSSL          |
 | 🧰 `infra-tools`    | Small helper utilities for SRE day-to-day tasks    | Bash, Python, jq         |
+|⏱️ `retry-with-backoff`| Implements exponential backoff with jitter for retries | Python, Random, Time |
+
 
 ---
 
